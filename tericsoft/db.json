@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "name": "Alok",
+      "email": "alokkumar@",
+      "phone": "7749",
+      "gender": "male",
+      "hobbies": "gardening",
+      "id": 1
+    },
+    {
+      "name": "xcasc",
+      "email": "sdcds",
+      "phone": "sdcds",
+      "gender": "male",
+      "hobbies": "Gardening",
+      "id": 2
+    },
+    {
+      "name": "ganesh",
+      "email": "ganeshmail@gmail.com",
+      "phone": "5486464",
+      "gender": "male",
+      "hobbies": "Gardening",
+      "id": 3
+    },
+    {
+      "name": "Aditya",
+      "email": "adi@gamil",
+      "phone": "515",
+      "gender": "male",
+      "hobbies": "Gardening",
+      "id": 4
+    }
+  ]
+}
